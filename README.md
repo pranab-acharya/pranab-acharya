@@ -34,7 +34,7 @@ I'm a passionate developer who loves working on innovative projects and learning
 - LinkedIn: [Pranab Acharya](https://www.linkedin.com/in/pranab-acharya)
 - Email: [pranab_acharya@yahoo.com](mailto:pranab_acharya@yahoo.com)
 
-## 📝 Recent Activities
+## 💬 Recent Activity
 
 <!--START_SECTION:activity-->
 <!-- Your recent GitHub activities will be automatically inserted here by GitHub Actions -->
