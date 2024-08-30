@@ -9,9 +9,10 @@ jobs:
   update-readme:
     name: Update README with Recent Activity
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -19,9 +20,15 @@ jobs:
           node-version: '16'
 
       - name: Update Recent Activity
-        uses: jasonetco/activity-box@latest
-        env:
+        uses: actions-cool/readme-box@v2
+        with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Add this line if you want to specify where to update your README
+          file-path: 'README.md'
+          box: '<!--START_SECTION:activity-->'
+          content: |
+            <!-- You can put custom activity message here -->
+            - `{{event}}` - {{repo}} {{branch}} - {{actor}} {{message}} - {{time}}
 
       - name: Commit & Push if Changed
         run: |
