@@ -31,6 +31,11 @@ I'm a passionate developer who loves working on innovative projects and learning
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 💬 Let's Connect
 
 Feel free to connect with me on LinkedIn or drop me an email. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
