@@ -1,45 +1,87 @@
-# Hi there, I'm Pranab Acharya 👋
-
-I'm a passionate developer who loves working on innovative projects and learning new technologies. Welcome to my GitHub profile!
-
-## 🔧 Technologies & Tools
+# 👋 Hi there, I'm Pranab Acharya
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,nodejs,express,mongodb,git" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Laravel+Enthusiast;Full+Stack+Developer;Lifelong+Learner+%F0%9F%93%9A;Building+Innovative+Projects+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-## 📊 GitHub Stats
+I'm a passionate developer who loves solving real-world problems through code. Welcome to my GitHub profile!
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranab-acharya&show_icons=true&theme=radical" alt="Pranab's GitHub Stats" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranab-acharya&layout=compact&theme=radical" alt="Top Languages" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranab-acharya&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranab-acharya&show_icons=true&theme=radical&hide_border=true&border_radius=20" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranab-acharya&layout=compact&theme=radical&hide_border=true&border_radius=20" height="170px"/>
 </div>
-
-## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranab-acharya&theme=radical&column=8" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranab-acharya&theme=radical&hide_border=true&border_radius=20" />
 </div>
 
-## 📫 How to reach me
+---
 
-- LinkedIn: [Pranab Acharya](https://www.linkedin.com/in/pranab-acharya)
-- Email: [pranab_acharya@yahoo.com](mailto:pranab_acharya@yahoo.com)
+## 🏆 GitHub Trophies
 
-## 💬 Today's Quote
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranab-acharya&theme=radical&column=7&no-frame=true" />
+</div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+---
 
-## :zap: Recent Activity
+## 📊 Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranab-acharya&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranab-acharya&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranab-acharya&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranab-acharya&theme=radical&utcOffset=5" />
+</div>
+
+---
+
+## 💬 Quote of the Day
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
+  </a>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranab-acharya)
+- 📧 [pranab_acharya@yahoo.com](mailto:pranab_acharya@yahoo.com)
+
+---
+
+## 🌐 Visitor Badge
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranab-acharya.pranab-acharya&style=flat-square&color=F75C7E" alt="Visitor Count" />
+</div>
+
+---
+
+## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 💬 Let's Connect
+---
 
-Feel free to connect with me on LinkedIn or drop me an email. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+## 🎯 Let's Collaborate!
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranab-acharya.pranab-acharya" alt="Visitor Badge" />
-</div>
+I’m always open to connecting with fellow developers, collaborating on exciting open-source projects, or discussing software engineering and tech trends. Don’t hesitate to reach out!
+
+---
