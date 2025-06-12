@@ -11,7 +11,7 @@ I'm a passionate developer who loves solving real-world problems through code. W
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,go,nodejs,express,mongodb,aws,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 ---
