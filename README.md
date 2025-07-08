@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Pranab Acharya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Laravel+Enthusiast;Full+Stack+Developer;Lifelong+Learner+%F0%9F%93%9A;Building+Innovative+Projects+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+%7C+Node.js+%7C+Express;AWS+Cloud+Development+Enthusiast;Passionate+About+Clean+Code+%26+Architecture;Lifelong+Learner+%F0%9F%93%9A;Building+Impactful+Tech+Solutions+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 I'm a passionate developer who loves solving real-world problems through code. Welcome to my GitHub profile!
